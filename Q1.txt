@@ -1,0 +1,4 @@
+// A checked exception is  compile time exception it means it is detected at compile time
+// whereas unchecked exception is detected at runtime.
+// Checked exception can be handled by try catch whereas unchecked exception can't be handled, it is simply a runtime time exception.
+// We can just instruct user to solve it by giving a hint.
