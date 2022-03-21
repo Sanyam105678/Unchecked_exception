@@ -1,0 +1,11 @@
+
+Q1. A checked exception is  compile time exception it means it is detected at compile time
+whereas unchecked exception is detected at runtime.
+Checked exception can be handled by try catch whereas unchecked exception can't be handled, it is simply a runtime time exception.
+We can just instruct user to solve it by giving a hint.
+
+Q2. Throw keyword is a part of code it means inside function body or inside block of code which forces jvm to throw an exception forcefully. Whereas throws keyword is written besides function 
+declaration which signifies that this function may throw an exception.
+
+Q3. final keyword is written to declare a variable or function which can be modified later stage of program. class with final keyword can't be inherited.
+Finally keyword is related with exception handling (try cat finally). code written in finally block is the code which is going to be executed whether exception is thrown or not.
